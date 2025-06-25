@@ -16,4 +16,5 @@ DESCRIPTION :
 
 The project work with a closed loop water circuit which is pumped via a peristalic pump. A
 fan makes air flow through an exchanger so the fresh water cools down the air. The water
-is gaining heat and then needs to be replaced with fresh water again after 30 minutes
+is gaining heat and then needs to be replaced with fresh water again after 30 minutes.
+An HMI will indicate the remaining time until purge with temperature sensors
