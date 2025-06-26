@@ -1,6 +1,9 @@
 # AirRefresher
 Building a mini air refresher for individual office table
 
+![image](https://github.com/user-attachments/assets/63734737-f077-4738-a0e5-d8b1fb3b0f2d)
+
+
 SUM UP :
 
 The goal is to ensure a temperature drop of 3 degrees below the indoor temperature locally,
