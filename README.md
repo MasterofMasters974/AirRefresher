@@ -14,6 +14,7 @@ TECHNICAL OBJECTIVES :
   - Maintain 3 degree below indoor temperature locally
   - Maintain the temperature drop for at least 30 minutes
   - Use the least amont of water, with max allowed : 1L
+  - Maintain the -3°C within at least 50cm
 
 DESCRIPTION :
 
